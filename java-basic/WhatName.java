@@ -10,7 +10,7 @@ class WhatName{
         System.out.print("몇살이에요?");
         int age = 0;
         age = scanner.nextInt();
-        System.out.print("나이는"+ age +" 입니다.");
+        System.out.print("나이는"+ age +" 살 입니다.");
 
     }
 }
